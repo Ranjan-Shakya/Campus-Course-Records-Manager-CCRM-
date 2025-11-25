@@ -237,8 +237,8 @@ This project was developed as part of Java Programming coursework, demonstrating
 
 ---
 
-**Author**: Ranjan Shakya<br> 
-**Reg. No.**: 24BSA10131<br>
+**Author**:  Ranjan Shakya<br> 
+**Reg. No.**:  24BSA10131<br>
 **Course**: (CSE2006) Programming in Java</br>
 **Institution**: Vellore Institute of Technology, Bhopal  
 **Date**: 2025-11-22  
